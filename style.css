@@ -1,8 +1,8 @@
 a:hover{color:green}
 body{ display:flex
+      flex-direction: column
 }
 main{ display:flex
-      flex-direction: column
   flex:auto}
 aside{flex:1}
 article{flex:3}
