@@ -1,12 +1,12 @@
 a:hover{color:green}
 
-body{display:flex
-  flex-direction:column
-baclgroun-color:yellow}
+body{display:flex;
+  flex-direction:column;
+background:yellow}
 
-main{flex:auto
+main{flex:auto;
   display:flex}
-aside{flex:1
-baclgroun-color:blue}
-article{flex:3
-baclgroun-color:green}
+aside{flex:1;
+background:blue}
+article{flex:3;
+background:green}
