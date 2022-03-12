@@ -4,6 +4,6 @@ targetImage.addEventListener('click', function() {
     targetImage.classList.remove('small');
   }
   else {
-    targetImage.classList.add('small')
+    targetImage.classList.add('small');
   }
 })
