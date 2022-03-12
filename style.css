@@ -2,7 +2,7 @@ a:hover{color:green}
 body{ display:flex
       flex-direction:column
 }
-main{ flex:1
+main{ flex:auto
       display:flex
       flex-direction:row
 }
