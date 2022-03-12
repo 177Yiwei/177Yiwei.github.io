@@ -1,14 +1,1 @@
 a:hover{color:green}
-
-*{margin:0
-      padding:0}
-
-body{ display:flex
-      flex-direction:column
-}
-main{ flex:auto
-      display:flex
-      flex-direction:row
-}
-aside{flex:1}
-article{flex:3}
