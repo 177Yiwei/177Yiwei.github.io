@@ -1,1 +1,9 @@
 a:hover{color:green}
+
+body{display:flex
+  flex-direction:column}
+
+main{flex:auto
+  display:flex}
+.item1{flex:1}
+.item2{flex:3}
